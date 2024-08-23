@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨🏻‍🎓 I'm a Junior Year Computer Science Undergraduate Student.<br><br>🌟 I'm a Four-Time Guinness World Records Holder.<br><br>👔 I'm currently working as:<br>◽ Frontend Web App Fellow at Bytewise Limited<br>◽ President at The Computing Students Society<br>◽ Additional Joint Secretary at PakSarZameen<br><br>👨🏻‍💻 I am passionate about: <br>◽ Web App Development<br>◽ IoTs<br>◽ Cloud Computing</p>
+<p align="left">👨🏻‍🎓 I'm a Junior Year Computer Science Undergraduate Student.<br><br>🌟 I'm a Four-Time Guinness World Records Holder.<br><br>👔 I'm currently working as:<br>◽ Frontend Web App Fellow at Bytewise Limited<br>◽ President at The Computing Students Society<br>◽ Additional Joint Secretary at PakSarZameen<br><br>👔 I worked as:<br>◽ Web App Intern at TechWithWarriors<br>◽ Team Operations Member at Google Developer Student Club<br>◽ Finance Secretary and General Member at The Computing Students Society<br>◽ Chief Advisor and Assistant Director at PakSarZameen<br><br>👨🏻‍💻 I am passionate about: <br>◽ Web App Development<br>◽ IoTs<br>◽ Cloud Computing</p>
 
 ###
 
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -66,5 +68,8 @@
 ###
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=bilalilyasjhandir&theme=yeblu&hide_border=true)](https://git.io/streak-stats)
+<div>
+  <img src="https://streak-stats.demolab.com?user=bilalilyasjhandir&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalilyasjhandir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
