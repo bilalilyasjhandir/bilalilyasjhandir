@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨🏻‍🎓 I'm a Junior Year Computer Science Undergraduate Student.<br><br>🌟 I'm a Four-Time Guinness World Records Holder.<br><br>👔 I'm currently working as:<br>◽ Frontend Web App Fellow at Bytewise Limited<br>◽ President at The Computing Students Society<br>◽ Additional Joint Secretary at PakSarZameen<br><br>👔 I worked as:<br>◽ Web App Intern at TechWithWarriors<br>◽ Team Operations Member at Google Developer Student Club<br>◽ Finance Secretary and General Member at The Computing Students Society<br>◽ Chief Advisor and Assistant Director at PakSarZameen<br><br>👨🏻‍💻 I am passionate about: <br>◽ Web App Development<br>◽ IoTs<br>
+<p align="left">👨🏻‍🎓 I'm a Junior Year Computer Science Undergraduate Student.<br><br>🌟 I'm a Four-Time Guinness World Records Holder.<br><br>👔 I'm currently working as:<br>◽ Frontend Web App Fellow at Bytewise Limited<br>◽ President at The Computing Students Society<br>◽ Additional Joint Secretary at PakSarZameen<br><br>👔 I worked as:<br>◽ Web App Intern at TechWithWarriors<br>◽ Team Operations Member at Google Developer Student Club<br>◽ Finance Secretary and General Member at The Computing Students Society<br>◽ Chief Advisor and Assistant Director at PakSarZameen<br><br>👨🏻‍💻 I am passionate about: <br>◽ Web App Development<br>◽ IoTs<br>◽ Cloud Computing
 
 ###
 
