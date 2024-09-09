@@ -20,8 +20,10 @@
   👔 I worked as:<br>
   ◽ Team Operations Member at Google Developer Student Club<br>
   ◽ Finance Secretary and General Member at The Computing Students Society<br>
+  ◽ Protocols & Coordination Director and Finance Member at TechLancerr Summit<br>
   ◽ General Member at Freelancing Promotion Society and Social Media Society<br>
   ◽ Chief Advisor and Assistant Director at PakSarZameen<br>
+  ◽ Store Owner at Daraz
   <br><br>
   👨🏻‍💻 I am passionate about:<br>
   ◽ Web App Development<br>
