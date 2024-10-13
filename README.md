@@ -15,6 +15,7 @@
   ◽ Web Dev Intern at NUEXUS<br>
   ◽ Research Intern at Yeungnam University<br>
   ◽ President at The Computing Students Society<br>
+  ◽ Brand Advocate at Coursera<br>
   ◽ Additional Joint Secretary at PakSarZameen
   <br><br>
   👔 I worked as:<br>
