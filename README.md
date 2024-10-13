@@ -13,11 +13,12 @@
   <br><br>
   👔 I'm currently working as:<br>
   ◽ Web Dev Intern at NUEXUS<br>
-  ◽ Frontend Web Dev Fellow at Bytewise Limited<br>
+  ◽ Research Intern at Yeungnam University<br>
   ◽ President at The Computing Students Society<br>
   ◽ Additional Joint Secretary at PakSarZameen
   <br><br>
   👔 I worked as:<br>
+  ◽ Frontend Web Dev Fellow at Bytewise Limited<br>
   ◽ Team Operations Member at Google Developer Student Club<br>
   ◽ Finance Secretary and General Member at The Computing Students Society<br>
   ◽ Protocols & Coordination Director and Finance Member at TechLancerr Summit<br>
@@ -25,10 +26,6 @@
   ◽ Chief Advisor and Assistant Director at PakSarZameen<br>
   ◽ Store Owner at Daraz
   <br><br>
-  👨🏻‍💻 I am passionate about:<br>
-  ◽ Web App Development<br>
-  ◽ IoTs<br>
-  ◽ Cloud Computing
 
 ###
 
