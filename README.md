@@ -9,16 +9,16 @@
 <p align="left">
   👨🏻‍🎓 I'm a Senior Year Computer Science Undergraduate Student.
   <br><br>
-  🌟 I'm a Four-Time Guinness World Records Holder.
+  🌟 I'm a Five-Time Guinness World Records Holder.
   <br><br>
   👔 I'm currently working as:<br>
-  ◽ Research Intern at Yeungnam University<br>
-  ◽ Brand Advocate at Coursera<br>
   ◽ Innovation Coordinator at PakSarZameen
   <br><br>
   👔 I worked as:<br>
   ◽ Web Dev Intern at NUEXUS<br>
   ◽ Frontend Web Dev Fellow at Bytewise Limited<br>
+  ◽ Research Intern at Yeungnam University<br>
+  ◽ Brand Advocate at Coursera<br>
   ◽ Team Operations Member at Google Developer Student Club<br>
   ◽ President, Finance Secretary, and General Member at The Computing Students Society<br>
   ◽ Protocols & Coordination Director and Finance Member at TechLancerr Summit<br>
